@@ -1,2 +1,8 @@
-<span style="color:green; font-size:30;">Hello </span>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;}
 
